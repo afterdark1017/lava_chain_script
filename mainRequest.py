@@ -4,7 +4,8 @@ import random
 from requestClass import requesting,RequestAlert
 
 # Paste your different Rpc here
-RPC_1 = 'https://eth1.lava.build/lava-referer-cc9e5c72-63b2-4cb2-a184-2da02275e79f/' #  vxlt
+RPC_1 = 'https://eth1.lava.build/lava-referer-cc9e5c72-63b2-4cb2-a184-2da02275e79f/' #  vxlt\
+
 RPC_2 = 'https://eth1.lava.build/lava-referer-bb51f107-9227-4755-afbc-5eac2d67b731/' # X37
 
 RPC_3 = 'https://eth1.lava.build/lava-referer-cc9e5c72-63b2-4cb2-a184-2da02275e79f/'
@@ -16,7 +17,8 @@ RPC_4 = 'https://eth1.lava.build/lava-referer-cc9e5c72-63b2-4cb2-a184-2da02275e7
 RPC_5 = 'https://eth1.lava.build/lava-referer-cc9e5c72-63b2-4cb2-a184-2da02275e79f/'
 # RPC_5 = 'https://eth1.lava.build/lava-referer-85290b4d-eb65-40d4-816b-a998caa660f4/'
 
-RPC_6 = 'https://eth1.lava.build/lava-referer-bcaf1744-0d7b-46b8-a081-fa27b794238a/'
+RPC_6 = 'https://eth1.lava.build/lava-referer-cc9e5c72-63b2-4cb2-a184-2da02275e79f/'
+# RPC_6 = 'https://eth1.lava.build/lava-referer-bcaf1744-0d7b-46b8-a081-fa27b794238a/'
 
 
 requestTasks = [ 'task1','task2' 'task3','task4','task5','task6']
